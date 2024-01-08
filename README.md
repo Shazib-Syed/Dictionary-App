@@ -46,7 +46,7 @@ This dictionary is for english words only.
 
 ## Contributing
 
-Contributions to this project are welcome in the form of suggestions or issues. If you have ideas for improvement or encounter any issues, please open an issue in the [issue tracker](<link-to-issue-tracker>).
+Contributions to this project are welcome in the form of suggestions or issues. If you have ideas for improvement or encounter any issues,please open an issue or submit a pull request.
 
 ## License
 
