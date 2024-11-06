@@ -36,12 +36,13 @@ To run this project locally, follow these steps:
 This dictionary is for english words only.
 
 ## Try some words
-1.	**Hello**
-2. **Job**
+1.	**Request**
+2. **Phone**
 3.	**Piece**
-4.	**Together**
-5.	**Solution**
-6. **Smallest**
+4. **Basic**
+5.	**Together**
+6.	**Solution**
+7. **Button**
 
 
 ## Contributing
